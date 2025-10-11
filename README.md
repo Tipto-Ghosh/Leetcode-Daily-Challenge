@@ -3,7 +3,7 @@
 ![LeetCode badge](https://img.shields.io/badge/Platform-LeetCode-orange?style=for-the-badge&logo=leetcode)
 ![Language badge](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python)
 ![Streak badge](https://img.shields.io/badge/Goal-Daily%20Problem%20Solving-brightgreen?style=for-the-badge)
-![Last Update](https://img.shields.io/github/last-commit/TiptoGhosh/Daily-LeetCode?style=for-the-badge)
+
 
 ---
 
@@ -22,7 +22,7 @@ Each solution is implemented in **C++**, with a focus on **clean code**, **algor
 
 | Month | Folder | Progress |
 |:------|:--------|:----------|
-| 🗓️ October 2025 | [View Solutions](./october2025) | ✅ In Progress |
+| 🗓️ October 2025 | [View Solutions](./October2025) | ✅ In Progress |
 | 🗓️ November 2025 | [View Solutions](./november2025) | 🔜 Coming Soon |
 | 🗓️ December 2025 | [View Solutions](./december2025) | 🔜 Planned |
 
