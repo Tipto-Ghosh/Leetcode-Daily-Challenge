@@ -38,7 +38,8 @@ Each solution is implemented in **C++**, with a focus on **clean code**, **algor
 |:---:|:--------|:------------|:--------|:-----------|
 | [Day 10](./October2025/day_10.py) | [Taking maximum energy from the mystic dungeon](https://leetcode.com/problems/taking-maximum-energy-from-the-mystic-dungeon/) | 🟠 Medium | ✅ Solved | Prefix Sum |
 | [Day 11](./October2025/day_11.py) | [Maximum Total Damage with Spell Casting](https://leetcode.com/problems/maximum-total-damage-with-spell-casting/) | 🟠 Medium | ✅ Solved | Prefix Sum |
-
+| [Day 12](./October2025/day_12.py) | [Find Sum of Array Product of Magical Sequences](https://leetcode.com/problems/find-sum-of-array-product-of-magical-sequences/) | 🔴 Hard | ✅ Solved | Dynamic Programming |
+| [Day 13](./October2025/day_13.py) | [Find Resultant Array After Removing Anagrams](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/) | 🟢 Easy | ✅ Solved | Prefix Sum |
 | ... | ... | ... | ... | ... |
 
 
