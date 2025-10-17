@@ -43,6 +43,7 @@ Each solution is implemented in **C++**, with a focus on **clean code**, **algor
 | [Day 14](./October2025/day_14.py) | [Adjacent increasing subarrays detection-i](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i/) | 🟢 Easy | ✅ Solved | Array |
 | [Day 15](./October2025/day_15.py) | [Adjacent increasing subarrays detection-ii](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-ii/) | 🟠 Medium | ✅ Solved | Array , Binary Search |
 | [Day 16](./October2025/day_16.py) | [Smallest Missing Non-negative Integer After Operation](https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/) | 🟠 Medium | ✅ Solved | Array , Binary Search |
+| [Day 17](./October2025/day_17.py) | [Maximize the number of partitions after operations](https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations/) | 🔴 Hard | ✅ Solved | Bit Mask , Binary Search |
 | ... | ... | ... | ... | ... |
 
 ---
