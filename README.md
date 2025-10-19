@@ -44,7 +44,8 @@ Each solution is implemented in **C++**, with a focus on **clean code**, **algor
 | [Day 15](./October2025/day_15.py) | [Adjacent increasing subarrays detection-ii](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-ii/) | 🟠 Medium | ✅ Solved | Array , Binary Search |
 | [Day 16](./October2025/day_16.py) | [Smallest Missing Non-negative Integer After Operation](https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/) | 🟠 Medium | ✅ Solved | Array , Binary Search |
 | [Day 17](./October2025/day_17.py) | [Maximize the number of partitions after operations](https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations/) | 🔴 Hard | ✅ Solved | Bit Mask , Binary Search |
-| [Day 18](./October2025/day_18.py) | [Maximum Number of Distinct Elements After Operations](https://leetcode.com/problems/maximum-number-of-distinct-elements-after-operations/) | 🟠 Medium | ✅ Solved | Prefix Sum |
+| [Day 18](./October2025/day_18.py) | [Maximum Number of Distinct Elements After Operations](https://leetcode.com/problems/maximum-number-of-distinct-elements-after-operations/) | 🟠 Medium | ✅ Solved | Sorting |
+| [Day 19](./October2025/day_19.py) | [Lexicographicallysmallest string after applying operations](https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/) | 🟠 Medium | ✅ Solved | Sorting |
 | ... | ... | ... | ... | ... |
 
 ---
