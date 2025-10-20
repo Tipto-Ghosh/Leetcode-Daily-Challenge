@@ -46,6 +46,7 @@ Each solution is implemented in **C++**, with a focus on **clean code**, **algor
 | [Day 17](./October2025/day_17.py) | [Maximize the number of partitions after operations](https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations/) | 🔴 Hard | ✅ Solved | Bit Mask , Binary Search |
 | [Day 18](./October2025/day_18.py) | [Maximum Number of Distinct Elements After Operations](https://leetcode.com/problems/maximum-number-of-distinct-elements-after-operations/) | 🟠 Medium | ✅ Solved | Sorting |
 | [Day 19](./October2025/day_19.py) | [Lexicographicallysmallest string after applying operations](https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/) | 🟠 Medium | ✅ Solved | Sorting |
+| [Day 20](./October2025/day_20.py) | [Final Value of Variable After Performaing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) | 🟢 Easy | ✅ Solved | Array |
 | ... | ... | ... | ... | ... |
 
 ---
