@@ -1,25 +1,43 @@
+from bisect import bisect
+from collections import defaultdict
 from typing import List 
 
 class Solution:
-    def maxFrequency(self, nums: List[int], k: int, numOps: int) -> int:
-        maxVal = max(nums) + k + 2
-        count = [0] * maxVal
+    def maxFrequency(self, nums: List[int], k: int, numOperations: int) -> int:
+        nums.sort()
+        ans = 0
+        num_count = defaultdict(int)
+        modes = set()
 
-        for v in nums:
-            count[v] += 1
+        def add_mode(value):
+            modes.add(value)
+            if value - k >= nums[0]:
+                modes.add(value - k)
+            if value + k <= nums[-1]:
+                modes.add(value + k)
 
-        for i in range(1, maxVal):
-            count[i] += count[i - 1]
+        last_num_index = 0
+        for i in range(len(nums)):
+            if nums[i] != nums[last_num_index]:
+                num_count[nums[last_num_index]] = i - last_num_index
+                ans = max(ans, i - last_num_index)
+                add_mode(nums[last_num_index])
+                last_num_index = i
 
-        res = 0
-        for i in range(maxVal):
-            left = max(0, i - k)
-            right = min(maxVal - 1, i + k)
-            total = count[right] - (count[left - 1] if left else 0)
-            freq = count[i] - (count[i - 1] if i else 0)
-            res = max(res, freq + min(numOps, total - freq))
+        num_count[nums[last_num_index]] = len(nums) - last_num_index
+        ans = max(ans, len(nums) - last_num_index)
+        add_mode(nums[last_num_index])
 
-        return res
+        for mode in sorted(modes):
+            l = bisect.bisect_left(nums, mode - k)
+            r = bisect.bisect_right(nums, mode + k) - 1
+            if mode in num_count:
+                temp_ans = min(r - l + 1, num_count[mode] + numOperations)
+            else:
+                temp_ans = min(r - l + 1, numOperations)
+            ans = max(ans, temp_ans)
+
+        return ans    
             
         
 sol = Solution()
