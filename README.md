@@ -49,7 +49,7 @@ Each solution is implemented in **C++**, with a focus on **clean code**, **algor
 | [Day 20](./October2025/day_20.py) | [Final Value of Variable After Performaing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) | 🟢 Easy | ✅ Solved | Array |
 | [Day 21](./October2025/day_21.py) | [Maximum Frequency of an Element After performaing operations-i](https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-i/) | 🟠 Medium | ✅ Solved | Sorting , Prefix Sum |
 | [Day 22](./October2025/day_22.py) | [Maximum Frequency of an Element After performaing operations-ii](https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-i/) | 🔴 Hard | ✅ Solved | Sorting , Prefix Sum |
-
+| [Day 23](./October2025/day_23.py) | [Check If Digits Are Equal in String After Operation-i](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/) | 🟢 Easy | ✅ Solved | String , Math |
 | ... | ... | ... | ... | ... |
 
 ---
