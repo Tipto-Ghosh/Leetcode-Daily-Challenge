@@ -50,6 +50,8 @@ Each solution is implemented in **C++**, with a focus on **clean code**, **algor
 | [Day 21](./October2025/day_21.py) | [Maximum Frequency of an Element After performaing operations-i](https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-i/) | 🟠 Medium | ✅ Solved | Sorting , Prefix Sum |
 | [Day 22](./October2025/day_22.py) | [Maximum Frequency of an Element After performaing operations-ii](https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-i/) | 🔴 Hard | ✅ Solved | Sorting , Prefix Sum |
 | [Day 23](./October2025/day_23.py) | [Check If Digits Are Equal in String After Operation-i](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/) | 🟢 Easy | ✅ Solved | String , Math |
+| [Day 24](./October2025/day_24.py) | [Next Greater Numerically Balanced Number](https://leetcode.com/problems/next-greater-numerically-balanced-number/) | 🟠 Medium | ✅ Solved | Enumeration |
+| [Day 25](./October2025/day_25.py) | [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) | 🟢 Easy | ✅ Solved | String , Math |
 | ... | ... | ... | ... | ... |
 
 ---
