@@ -53,6 +53,8 @@ Each solution is implemented in **C++**, with a focus on **clean code**, **algor
 | [Day 24](./October2025/day_24.py) | [Next Greater Numerically Balanced Number](https://leetcode.com/problems/next-greater-numerically-balanced-number/) | 🟠 Medium | ✅ Solved | Enumeration |
 | [Day 25](./October2025/day_25.py) | [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) | 🟢 Easy | ✅ Solved | String , Math |
 | [Day 26](./October2025/day_26.py) | [Simple Bank System](https://leetcode.com/problems/simple-bank-system/) | 🟠 Medium | ✅ Solved | Hashmap , Simulation |
+| [Day 27](./October2025/day_27.py) | [Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/) | 🟠 Medium | ✅ Solved | Array |
+| [Day 28](./October2025/day_28.py) | [Make Array Elements Equal to Zero](https://leetcode.com/problems/make-array-elements-equal-to-zero/) | 🟢 Easy | ✅ Solved | Array |
 | ... | ... | ... | ... | ... |
 
 ---
