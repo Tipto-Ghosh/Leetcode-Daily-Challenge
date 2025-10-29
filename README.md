@@ -55,6 +55,7 @@ Each solution is implemented in **C++**, with a focus on **clean code**, **algor
 | [Day 26](./October2025/day_26.py) | [Simple Bank System](https://leetcode.com/problems/simple-bank-system/) | 🟠 Medium | ✅ Solved | Hashmap , Simulation |
 | [Day 27](./October2025/day_27.py) | [Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/) | 🟠 Medium | ✅ Solved | Array |
 | [Day 28](./October2025/day_28.py) | [Make Array Elements Equal to Zero](https://leetcode.com/problems/make-array-elements-equal-to-zero/) | 🟢 Easy | ✅ Solved | Array |
+| [Day 29](./October2025/day_29.py) | [Smallest Number With All Set Bits](https://leetcode.com/problems/smallest-number-with-all-set-bits/) | 🟢 Easy | ✅ Solved | Array |
 | ... | ... | ... | ... | ... |
 
 ---
