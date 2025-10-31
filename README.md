@@ -56,7 +56,8 @@ Each solution is implemented in **C++**, with a focus on **clean code**, **algor
 | [Day 27](./October2025/day_27.py) | [Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/) | 🟠 Medium | ✅ Solved | Array |
 | [Day 28](./October2025/day_28.py) | [Make Array Elements Equal to Zero](https://leetcode.com/problems/make-array-elements-equal-to-zero/) | 🟢 Easy | ✅ Solved | Array |
 | [Day 29](./October2025/day_29.py) | [Smallest Number With All Set Bits](https://leetcode.com/problems/smallest-number-with-all-set-bits/) | 🟢 Easy | ✅ Solved | Array |
-| [Day 30](./October2025/day_30.py) | [Minimum Number of Increments on Subarrays to Form a Target Array](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | 🔴 Hard | ✅ Solved |  |
+| [Day 30](./October2025/day_30.py) | [Minimum Number of Increments on Subarrays to Form a Target Array](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | 🔴 Hard | ✅ Solved | Sum of Adjacent elements difference |
+| [Day 31](./October2025/day_31.py) | [The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/) | 🟢 Easy | ✅ Solved | Hashmap |
 | ... | ... | ... | ... | ... |
 
 ---
