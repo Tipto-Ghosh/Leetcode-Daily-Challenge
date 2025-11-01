@@ -22,8 +22,8 @@ Each solution is implemented in **C++**, with a focus on **clean code**, **algor
 
 | Month | Folder | Progress |
 |:------|:--------|:----------|
-| 🗓️ October 2025 | [View Solutions](./October2025) | ✅ In Progress |
-| 🗓️ November 2025 | [View Solutions](./november2025) | 🔜 Coming Soon |
+| 🗓️ October 2025 | [View Solutions](./October2025) | ✅ Completed |
+| 🗓️ November 2025 | [View Solutions](./november2025) | 🟢 In Progress |
 | 🗓️ December 2025 | [View Solutions](./december2025) | 🔜 Planned |
 
 
@@ -60,6 +60,14 @@ Each solution is implemented in **C++**, with a focus on **clean code**, **algor
 | [Day 31](./October2025/day_31.py) | [The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/) | 🟢 Easy | ✅ Solved | Hashmap |
 | ... | ... | ... | ... | ... |
 
+### ✅ October 2025 Completed: 22 Easy | 7 Medium | 3 Hard
+---
+## 📊 November 2025 Progress Tracker
+
+| View solution's of this day | Problem | Difficulty | Status | Approach |
+|:---:|:--------|:------------|:--------|:-----------|
+| [Day 01](./November2025/day_01.py) | [Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/) | 🟠 Medium | ✅ Solved | Linked List Linear Traversal |
+| ... | ... | ... | ... | ... |
 ---
 
 <details>
