@@ -67,6 +67,7 @@ Each solution is implemented in **C++**, with a focus on **clean code**, **algor
 | View solution's of this day | Problem | Difficulty | Status | Approach |
 |:---:|:--------|:------------|:--------|:-----------|
 | [Day 01](./November2025/day_01.py) | [Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/) | 🟠 Medium | ✅ Solved | Linked List Linear Traversal |
+| [Day 02](./November2025/day_02.py) | [Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/) | 🟠 Medium | ✅ Solved | Matrix , Simulation |
 | ... | ... | ... | ... | ... |
 ---
 
