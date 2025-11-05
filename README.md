@@ -69,7 +69,8 @@ Each solution is implemented in **C++**, with a focus on **clean code**, **algor
 | [Day 01](./November2025/day_01.py) | [Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/) | 🟠 Medium | ✅ Solved | Linked List Linear Traversal |
 | [Day 02](./November2025/day_02.py) | [Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/) | 🟠 Medium | ✅ Solved | Matrix , Simulation |
 | [Day 03](./November2025/day_03.py) | [Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) | 🟠 Medium | ✅ Solved | Array , Dynamic Programming |
-| [Day 04](./October2025/day_04.py) | [Find X-Sum of All K-Long Subarrays-i](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/) | 🟢 Easy | ✅ Solved | Hashmap , Heap |
+| [Day 04](./November2025/day_04.py) | [Find X-Sum of All K-Long Subarrays-i](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/) | 🟢 Easy | ✅ Solved | Hashmap , Heap |
+| [Day 05](./November2025/day_05.py) | [Find X-Sum of All K-Long Subarrays-ii](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-ii/) | 🔴 Hard | ✅ Solved | Heap , Sliding Window |
 | ... | ... | ... | ... | ... |
 ---
 
