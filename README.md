@@ -72,7 +72,8 @@ Each solution is implemented in **C++**, with a focus on **clean code**, **algor
 | [Day 04](./November2025/day_04.py) | [Find X-Sum of All K-Long Subarrays-i](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/) | 🟢 Easy | ✅ Solved | Hashmap , Heap |
 | [Day 05](./November2025/day_05.py) | [Find X-Sum of All K-Long Subarrays-ii](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-ii/) | 🔴 Hard | ✅ Solved | Heap , Sliding Window |
 | [Day 06](./November2025/day_06.py) | [Power Grid Maintainance](https://leetcode.com/problems/power-grid-maintenance/) | 🟠 Medium | ✅ Solved | Graph Disjoint Set |
-| [Day 07](./November2025/day_07.py) | [Maximize the Minimum Powered City](https://leetcode.com/problems/maximize-the-minimum-powered-city/) | 🔴 Hard | ✅ Solved | Heap , Sliding Window |
+| [Day 07](./November2025/day_07.py) | [Maximize the Minimum Powered City](https://leetcode.com/problems/maximize-the-minimum-powered-city/) | 🔴 Hard | ✅ Solved | Binary search |
+| [Day 08](./November2025/day_08.py) | [Minimum One Bit Operations to Make Intezers Zero](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/) | 🔴 Hard | ✅ Solved | Bit Manipulation |
 | ... | ... | ... | ... | ... |
 ---
 
