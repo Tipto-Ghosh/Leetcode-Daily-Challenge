@@ -74,6 +74,7 @@ Each solution is implemented in **C++**, with a focus on **clean code**, **algor
 | [Day 06](./November2025/day_06.py) | [Power Grid Maintainance](https://leetcode.com/problems/power-grid-maintenance/) | 🟠 Medium | ✅ Solved | Graph Disjoint Set |
 | [Day 07](./November2025/day_07.py) | [Maximize the Minimum Powered City](https://leetcode.com/problems/maximize-the-minimum-powered-city/) | 🔴 Hard | ✅ Solved | Binary search |
 | [Day 08](./November2025/day_08.py) | [Minimum One Bit Operations to Make Intezers Zero](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/) | 🔴 Hard | ✅ Solved | Bit Manipulation |
+| [Day 09](./November2025/day_09.py) | [Count Operations to Obtain Zero](https://leetcode.com/problems/count-operations-to-obtain-zero/) | 🟢 Easy | ✅ Solved | simulation |
 | ... | ... | ... | ... | ... |
 ---
 
