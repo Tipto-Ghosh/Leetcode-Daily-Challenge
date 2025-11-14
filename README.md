@@ -77,6 +77,9 @@ Each solution is implemented in **C++**, with a focus on **clean code**, **algor
 | [Day 09](./November2025/day_09.py) | [Count Operations to Obtain Zero](https://leetcode.com/problems/count-operations-to-obtain-zero/) | 🟢 Easy | ✅ Solved | simulation |
 | [Day 10](./November2025/day_10.py) | [Minimum Operations to Convert All Elements to Zero](https://leetcode.com/problems/minimum-operations-to-convert-all-elements-to-zero/) | 🟠 Medium | ✅ Solved | Monotonic Stack |
 | [Day 11](./November2025/day_11.py) | [Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/) | 🟠 Medium | ✅ Solved | Dynamic Programming |
+| [Day 12](./November2025/day_12.py) | [Minimum Number of Operations to make all array element equal to 1](https://leetcode.com/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | 🟠 Medium | ✅ Solved | Number Theory |
+| [Day 13](./November2025/day_13.py) | [Maximum Number of Operations to Move Ones to the End](https://leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end/) | 🟠 Medium | ✅ Solved | Greedy , Counting |
+| [Day 14](./November2025/day_14.py) | [Increment submatrices by one](https://leetcode.com/problems/increment-submatrices-by-one/) | 🟠 Medium | ✅ Solved | Matrix , Prefix Sum |
 | ... | ... | ... | ... | ... |
 ---
 
