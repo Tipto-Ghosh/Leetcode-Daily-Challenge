@@ -80,6 +80,7 @@ Each solution is implemented in **C++**, with a focus on **clean code**, **algor
 | [Day 12](./November2025/day_12.py) | [Minimum Number of Operations to make all array element equal to 1](https://leetcode.com/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/) | 🟠 Medium | ✅ Solved | Number Theory |
 | [Day 13](./November2025/day_13.py) | [Maximum Number of Operations to Move Ones to the End](https://leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end/) | 🟠 Medium | ✅ Solved | Greedy , Counting |
 | [Day 14](./November2025/day_14.py) | [Increment submatrices by one](https://leetcode.com/problems/increment-submatrices-by-one/) | 🟠 Medium | ✅ Solved | Matrix , Prefix Sum |
+| [Day 15](./November2025/day_15.py) | [Count the Number of Substrings With Dominant Ones](https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones/) | 🟠 Medium | ✅ Solved | Sliding window , Prefix Sum |
 | ... | ... | ... | ... | ... |
 ---
 
