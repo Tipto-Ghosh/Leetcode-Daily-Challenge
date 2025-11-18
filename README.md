@@ -82,7 +82,8 @@ Each solution is implemented in **C++**, with a focus on **clean code**, **algor
 | [Day 14](./November2025/day_14.py) | [Increment submatrices by one](https://leetcode.com/problems/increment-submatrices-by-one/) | 🟠 Medium | ✅ Solved | Matrix , Prefix Sum |
 | [Day 15](./November2025/day_15.py) | [Count the Number of Substrings With Dominant Ones](https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones/) | 🟠 Medium | ✅ Solved | Sliding window , Prefix Sum |
 | [Day 16](./November2025/day_16.py) | [Number of Substrings with only 1's](https://leetcode.com/problems/number-of-substrings-with-only-1s/) | 🟠 Medium | ✅ Solved | Counting |
-| [Day 17](./November2025/day_17.py) | [Check if all 1's are at least length K places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/) | 🟢 Easy | ✅ Solved | simulation |
+| [Day 17](./November2025/day_17.py) | [Check if all 1's are at least length K places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/) | 🟢 Easy | ✅ Solved |  Array |
+| [Day 18](./November2025/day_18.py) | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/) | 🟢 Easy | ✅ Solved |  Increment Pointer |
 | ... | ... | ... | ... | ... |
 ---
 
