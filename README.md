@@ -84,6 +84,7 @@ Each solution is implemented in **C++**, with a focus on **clean code**, **algor
 | [Day 16](./November2025/day_16.py) | [Number of Substrings with only 1's](https://leetcode.com/problems/number-of-substrings-with-only-1s/) | 🟠 Medium | ✅ Solved | Counting |
 | [Day 17](./November2025/day_17.py) | [Check if all 1's are at least length K places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/) | 🟢 Easy | ✅ Solved |  Array |
 | [Day 18](./November2025/day_18.py) | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/) | 🟢 Easy | ✅ Solved |  Increment Pointer |
+| [Day 19](./November2025/day_19.py) | [Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two/) | 🟢 Easy | ✅ Solved |  Array , Hashset |
 | ... | ... | ... | ... | ... |
 ---
 
