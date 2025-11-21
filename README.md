@@ -86,6 +86,7 @@ Each solution is implemented in **C++**, with a focus on **clean code**, **algor
 | [Day 18](./November2025/day_18.py) | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/) | 🟢 Easy | ✅ Solved |  Increment Pointer |
 | [Day 19](./November2025/day_19.py) | [Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two/) | 🟢 Easy | ✅ Solved |  Array , Hashset |
 | [Day 20](./November2025/day_20.py) | [Set Intersection Size At Least Two](https://leetcode.com/problems/set-intersection-size-at-least-two/) | 🔴 Hard | ✅ Solved | Sorting , Greedy |
+| [Day 21](./November2025/day_21.py) | [Unique Length-3 Palindrome Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/) | 🟠 Medium | ✅ Solved | Counting , Hashset |
 | ... | ... | ... | ... | ... |
 ---
 
