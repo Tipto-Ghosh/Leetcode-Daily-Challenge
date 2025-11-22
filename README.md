@@ -10,7 +10,7 @@
 > “Consistency beats intensity. A little progress each day adds up to big results.” 💪  
 
 This repository contains my **daily LeetCode problem solutions**.  
-Each solution is implemented in **C++**, with a focus on **clean code**, **algorithmic clarity**, and **time-space efficiency**.
+Each solution is implemented in **Python**, with a focus on **clean code**, **algorithmic clarity**, and **time-space efficiency**.
 
 ---
 
@@ -58,7 +58,7 @@ Each solution is implemented in **C++**, with a focus on **clean code**, **algor
 | [Day 29](./October2025/day_29.py) | [Smallest Number With All Set Bits](https://leetcode.com/problems/smallest-number-with-all-set-bits/) | 🟢 Easy | ✅ Solved | Array |
 | [Day 30](./October2025/day_30.py) | [Minimum Number of Increments on Subarrays to Form a Target Array](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | 🔴 Hard | ✅ Solved | Sum of Adjacent elements difference |
 | [Day 31](./October2025/day_31.py) | [The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/) | 🟢 Easy | ✅ Solved | Hashmap |
-| ... | ... | ... | ... | ... |
+---
 
 ### ✅ October 2025 Completed: 22 Easy | 7 Medium | 3 Hard
 ---
@@ -87,6 +87,7 @@ Each solution is implemented in **C++**, with a focus on **clean code**, **algor
 | [Day 19](./November2025/day_19.py) | [Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two/) | 🟢 Easy | ✅ Solved |  Array , Hashset |
 | [Day 20](./November2025/day_20.py) | [Set Intersection Size At Least Two](https://leetcode.com/problems/set-intersection-size-at-least-two/) | 🔴 Hard | ✅ Solved | Sorting , Greedy |
 | [Day 21](./November2025/day_21.py) | [Unique Length-3 Palindrome Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/) | 🟠 Medium | ✅ Solved | Counting , Hashset |
+| [Day 22](./November2025/day_22.py) | [Find Minimum Operations to Make All Elements Divisible by Three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/) | 🟢 Easy | ✅ Solved | Array |
 | ... | ... | ... | ... | ... |
 ---
 
