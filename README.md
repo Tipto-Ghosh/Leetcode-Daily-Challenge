@@ -89,6 +89,7 @@ Each solution is implemented in **Python**, with a focus on **clean code**, **al
 | [Day 21](./November2025/day_21.py) | [Unique Length-3 Palindrome Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/) | 🟠 Medium | ✅ Solved | Counting , Hashset |
 | [Day 22](./November2025/day_22.py) | [Find Minimum Operations to Make All Elements Divisible by Three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/) | 🟢 Easy | ✅ Solved | Array |
 | [Day 23](./November2025/day_23.py) | [Greatest Sum Divided by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/) | 🟠 Medium | ✅ Solved | Dynamic Programming |
+| [Day 24](./November2025/day_24.py) | [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | 🟢 Easy | ✅ Solved | Array , Bit manipulation |
 | ... | ... | ... | ... | ... |
 ---
 
