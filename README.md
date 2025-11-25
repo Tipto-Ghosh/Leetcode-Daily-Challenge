@@ -90,6 +90,7 @@ Each solution is implemented in **Python**, with a focus on **clean code**, **al
 | [Day 22](./November2025/day_22.py) | [Find Minimum Operations to Make All Elements Divisible by Three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/) | 🟢 Easy | ✅ Solved | Array |
 | [Day 23](./November2025/day_23.py) | [Greatest Sum Divided by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/) | 🟠 Medium | ✅ Solved | Dynamic Programming |
 | [Day 24](./November2025/day_24.py) | [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | 🟢 Easy | ✅ Solved | Array , Bit manipulation |
+| [Day 25](./November2025/day_25.py) | [Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/) | 🟠 Medium | ✅ Solved | Hashset |
 | ... | ... | ... | ... | ... |
 ---
 
