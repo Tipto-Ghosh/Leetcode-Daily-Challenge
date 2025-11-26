@@ -4,17 +4,12 @@
 ![Language badge](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python)
 ![Streak badge](https://img.shields.io/badge/Goal-Daily%20Problem%20Solving-brightgreen?style=for-the-badge)
 
-
 ---
 
-> “Consistency beats intensity. A little progress each day adds up to big results.” 💪  
+> “Consistency beats intensity. A little progress each day adds up to big results.” 💪  
 
-This repository contains my **daily LeetCode problem solutions**.  
+This repository contains my **daily LeetCode problem solutions**.  
 Each solution is implemented in **Python**, with a focus on **clean code**, **algorithmic clarity**, and **time-space efficiency**.
-
----
-
-
 
 ---
 
@@ -22,19 +17,22 @@ Each solution is implemented in **Python**, with a focus on **clean code**, **al
 
 | Month | Folder | Progress |
 |:------|:--------|:----------|
-| 🗓️ October 2025 | [View Solutions](./October2025) | ✅ Completed |
-| 🗓️ November 2025 | [View Solutions](./november2025) | 🟢 In Progress |
+| 🗓️ **October 2025** | [View Solutions](./October2025) | ✅ **Completed** |
+| 🗓️ **November 2025** | [View Solutions](./november2025) | 🟢 **In Progress** |
 | 🗓️ December 2025 | [View Solutions](./december2025) | 🔜 Planned |
-
 
 ---
 
-## 📊 Progress Tracker
+## 📊 Monthly Progress Trackers
 
+### 🗓️ October 2025 Solutions
 
-## 📊 October 2025 Progress Tracker
+**Overall Progress:** 22 Easy | 7 Medium | 3 Hard | **Total: 31** ✅ **Completed**
 
-| View solution's of this day | Problem | Difficulty | Status | Approach |
+<details>
+<summary>Click to Expand October Solutions</summary>
+
+| View solution | Problem | Difficulty | Status | Approach |
 |:---:|:--------|:------------|:--------|:-----------|
 | [Day 10](./October2025/day_10.py) | [Taking maximum energy from the mystic dungeon](https://leetcode.com/problems/taking-maximum-energy-from-the-mystic-dungeon/) | 🟠 Medium | ✅ Solved | Prefix Sum |
 | [Day 11](./October2025/day_11.py) | [Maximum Total Damage with Spell Casting](https://leetcode.com/problems/maximum-total-damage-with-spell-casting/) | 🟠 Medium | ✅ Solved | Prefix Sum |
@@ -58,13 +56,18 @@ Each solution is implemented in **Python**, with a focus on **clean code**, **al
 | [Day 29](./October2025/day_29.py) | [Smallest Number With All Set Bits](https://leetcode.com/problems/smallest-number-with-all-set-bits/) | 🟢 Easy | ✅ Solved | Array |
 | [Day 30](./October2025/day_30.py) | [Minimum Number of Increments on Subarrays to Form a Target Array](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | 🔴 Hard | ✅ Solved | Sum of Adjacent elements difference |
 | [Day 31](./October2025/day_31.py) | [The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/) | 🟢 Easy | ✅ Solved | Hashmap |
+</details>
+
 ---
 
-### ✅ October 2025 Completed: 22 Easy | 7 Medium | 3 Hard
----
-## 📊 November 2025 Progress Tracker
+### 🗓️ November 2025 Solutions
 
-| View solution's of this day | Problem | Difficulty | Status | Approach |
+**Overall Progress:** 7 Easy | 15 Medium | 5 Hard | **Total: 27** 🟢 **In Progress**
+
+<details>
+<summary>Click to Expand November Solutions</summary>
+
+| View solution | Problem | Difficulty | Status | Approach |
 |:---:|:--------|:------------|:--------|:-----------|
 | [Day 01](./November2025/day_01.py) | [Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/) | 🟠 Medium | ✅ Solved | Linked List Linear Traversal |
 | [Day 02](./November2025/day_02.py) | [Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/) | 🟠 Medium | ✅ Solved | Matrix , Simulation |
@@ -82,31 +85,34 @@ Each solution is implemented in **Python**, with a focus on **clean code**, **al
 | [Day 14](./November2025/day_14.py) | [Increment submatrices by one](https://leetcode.com/problems/increment-submatrices-by-one/) | 🟠 Medium | ✅ Solved | Matrix , Prefix Sum |
 | [Day 15](./November2025/day_15.py) | [Count the Number of Substrings With Dominant Ones](https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones/) | 🟠 Medium | ✅ Solved | Sliding window , Prefix Sum |
 | [Day 16](./November2025/day_16.py) | [Number of Substrings with only 1's](https://leetcode.com/problems/number-of-substrings-with-only-1s/) | 🟠 Medium | ✅ Solved | Counting |
-| [Day 17](./November2025/day_17.py) | [Check if all 1's are at least length K places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/) | 🟢 Easy | ✅ Solved |  Array |
-| [Day 18](./November2025/day_18.py) | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/) | 🟢 Easy | ✅ Solved |  Increment Pointer |
-| [Day 19](./November2025/day_19.py) | [Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two/) | 🟢 Easy | ✅ Solved |  Array , Hashset |
+| [Day 17](./November2025/day_17.py) | [Check if all 1's are at least length K places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/) | 🟢 Easy | ✅ Solved |  Array |
+| [Day 18](./November2025/day_18.py) | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/) | 🟢 Easy | ✅ Solved |  Increment Pointer |
+| [Day 19](./November2025/day_19.py) | [Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two/) | 🟢 Easy | ✅ Solved |  Array , Hashset |
 | [Day 20](./November2025/day_20.py) | [Set Intersection Size At Least Two](https://leetcode.com/problems/set-intersection-size-at-least-two/) | 🔴 Hard | ✅ Solved | Sorting , Greedy |
 | [Day 21](./November2025/day_21.py) | [Unique Length-3 Palindrome Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/) | 🟠 Medium | ✅ Solved | Counting , Hashset |
 | [Day 22](./November2025/day_22.py) | [Find Minimum Operations to Make All Elements Divisible by Three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/) | 🟢 Easy | ✅ Solved | Array |
 | [Day 23](./November2025/day_23.py) | [Greatest Sum Divided by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/) | 🟠 Medium | ✅ Solved | Dynamic Programming |
 | [Day 24](./November2025/day_24.py) | [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | 🟢 Easy | ✅ Solved | Array , Bit manipulation |
 | [Day 25](./November2025/day_25.py) | [Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/) | 🟠 Medium | ✅ Solved | Hashset |
+| [Day 26](./November2025/day_26.py) | [Paths in Matrix Whose Sum is Divisible by K](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/) | 🔴 Hard | ✅ Solved | Dynamic Programming |
 | ... | ... | ... | ... | ... |
+</details>
+
 ---
 
 <details>
 <summary>📘 Topics Covered (click to expand)</summary>
 
-- Arrays & Strings  
-- Linked Lists  
-- Trees & Graphs  
-- Stack & Queue  
-- Recursion & Backtracking  
-- Dynamic Programming  
-- Greedy Algorithms  
-- Binary Search  
-- Sliding Window  
-- Bit Manipulation  
+* Arrays & Strings  
+* Linked Lists  
+* Trees & Graphs  
+* Stack & Queue  
+* Recursion & Backtracking  
+* Dynamic Programming  
+* Greedy Algorithms  
+* Binary Search  
+* Sliding Window  
+* Bit Manipulation  
 
 </details>
 
@@ -114,20 +120,20 @@ Each solution is implemented in **Python**, with a focus on **clean code**, **al
 
 ## 🧩 Problem-Solving Strategy
 
-1. **Understand the problem** — Read carefully, note constraints.  
-2. **Plan the solution** — Identify patterns or DSA techniques.  
-3. **Write clean code** — Use meaningful variable names & comments.  
-4. **Analyze complexity** — Both time and space.  
-5. **Optimize if possible** — Aim for the most efficient solution.
+1.  **Understand the problem** — Read carefully, note constraints.  
+2.  **Plan the solution** — Identify patterns or DSA techniques.  
+3.  **Write clean code** — Use meaningful variable names & comments.  
+4.  **Analyze complexity** — Both time and space.  
+5.  **Optimize if possible** — Aim for the most efficient solution.
 
 ---
 
 ## 🏁 Goals
 
-- ✅ Maintain a **daily streak**  
-- ✅ Build deep understanding of **DSA patterns**  
-- ✅ Prepare for **technical interviews**  
-- 🔜 Add **Python solutions** in the future  
+* ✅ Maintain a **daily streak**  
+* ✅ Build deep understanding of **DSA patterns**  
+* ✅ Prepare for **technical interviews**  
+* 🔜 Add **Python solutions** in the future  
 
 ---
 
@@ -139,4 +145,4 @@ Each solution is implemented in **Python**, with a focus on **clean code**, **al
 
 ---
 
-⭐ **Star this repo** if you find it helpful and want to follow along my daily journey!  
+⭐ **Star this repo** if you find it helpful and want to follow along my daily journey!
