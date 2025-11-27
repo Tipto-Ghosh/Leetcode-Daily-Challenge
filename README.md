@@ -95,6 +95,7 @@ Each solution is implemented in **Python**, with a focus on **clean code**, **al
 | [Day 24](./November2025/day_24.py) | [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | 🟢 Easy | ✅ Solved | Array , Bit manipulation |
 | [Day 25](./November2025/day_25.py) | [Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/) | 🟠 Medium | ✅ Solved | Hashset |
 | [Day 26](./November2025/day_26.py) | [Paths in Matrix Whose Sum is Divisible by K](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/) | 🔴 Hard | ✅ Solved | Dynamic Programming |
+| [Day 27](./November2025/day_27.py) | [Maximum Subarray Sum with Length Divisible by K](https://leetcode.com/problems/maximum-subarray-sum-with-length-divisible-by-k/) | 🟠 Medium | ✅ Solved | Prefix sum|
 | ... | ... | ... | ... | ... |
 </details>
 
