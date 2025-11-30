@@ -98,6 +98,7 @@ Each solution is implemented in **Python**, with a focus on **clean code**, **al
 | [Day 27](./November2025/day_27.py) | [Maximum Subarray Sum with Length Divisible by K](https://leetcode.com/problems/maximum-subarray-sum-with-length-divisible-by-k/) | 🟠 Medium | ✅ Solved | Prefix sum|
 | [Day 28](./November2025/day_28.py) | [Maximum Number of K Divisible Components](https://leetcode.com/problems/maximum-number-of-k-divisible-components/) | 🔴 Hard | ✅ Solved | Depth First Search |
 | [Day 29](./November2025/day_29.py) | [Minimum Operations to Make Array Sum Divisible by K](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/) | 🟢 Easy | ✅ Solved | Array , Remainder |
+| [Day 30](./November2025/day_30.py) | [Make Sum Divisible by K](https://leetcode.com/problems/make-sum-divisible-by-p/) | 🟠 Medium | ✅ Solved | Hashmap , prefix sum modulo p |
 | ... | ... | ... | ... | ... |
 </details>
 
