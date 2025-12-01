@@ -18,8 +18,9 @@ Each solution is implemented in **Python**, with a focus on **clean code**, **al
 | Month | Folder | Progress |
 |:------|:--------|:----------|
 | 🗓️ **October 2025** | [View Solutions](./October2025) | ✅ **Completed** |
-| 🗓️ **November 2025** | [View Solutions](./november2025) | 🟢 **In Progress** |
-| 🗓️ December 2025 | [View Solutions](./december2025) | 🔜 Planned |
+| 🗓️ **November 2025** | [View Solutions](./november2025) |  ✅ **Completed** |
+| 🗓️ **December 2025** | [View Solutions](./december2025) | 🟢 **In Progress** |
+| 🗓️ January 2026 | [View Solutions](./december2025) | 🔜 Planned |
 
 ---
 
@@ -62,7 +63,8 @@ Each solution is implemented in **Python**, with a focus on **clean code**, **al
 
 ### 🗓️ November 2025 Solutions
 
-**Overall Progress:** 7 Easy | 15 Medium | 5 Hard | **Total: 27** 🟢 **In Progress**
+**Overall Progress:** 8 Easy | 16 Medium | 6 Hard | **Total: 30** ✅ **Completed**
+
 
 <details>
 <summary>Click to Expand November Solutions</summary>
@@ -99,6 +101,20 @@ Each solution is implemented in **Python**, with a focus on **clean code**, **al
 | [Day 28](./November2025/day_28.py) | [Maximum Number of K Divisible Components](https://leetcode.com/problems/maximum-number-of-k-divisible-components/) | 🔴 Hard | ✅ Solved | Depth First Search |
 | [Day 29](./November2025/day_29.py) | [Minimum Operations to Make Array Sum Divisible by K](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/) | 🟢 Easy | ✅ Solved | Array , Remainder |
 | [Day 30](./November2025/day_30.py) | [Make Sum Divisible by K](https://leetcode.com/problems/make-sum-divisible-by-p/) | 🟠 Medium | ✅ Solved | Hashmap , prefix sum modulo p |
+
+</details>
+
+---
+### 🗓️ December 2025 Solutions
+
+**Overall Progress:** 0 Easy | 0 Medium | 1 Hard | **Total: 1** 🟢 **In Progress**
+
+<details>
+<summary>Click to Expand December Solutions</summary>
+
+| View solution | Problem | Difficulty | Status | Approach |
+|:---:|:--------|:------------|:--------|:-----------|
+| [Day 01](./December2025/day_01.py) | [Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers/) | 🔴 Hard | ✅ Solved | Binary Search on Range |
 | ... | ... | ... | ... | ... |
 </details>
 
