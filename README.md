@@ -116,6 +116,7 @@ Each solution is implemented in **Python**, with a focus on **clean code**, **al
 |:---:|:--------|:------------|:--------|:-----------|
 | [Day 01](./December2025/day_01.py) | [Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers/) | 🔴 Hard | ✅ Solved | Binary Search on Range |
 | [Day 02](./December2025/day_02.py) | [Count Number of Trapezoids-i](https://leetcode.com/problems/count-number-of-trapezoids-i/) | 🟠 Medium | ✅ Solved | Hashmap , Geometry |
+| [Day 03](./December2025/day_03.py) | [Count Number of Trapezoids-ii](https://leetcode.com/problems/count-number-of-trapezoids-ii/) | 🔴 Hard | ✅ Solved | Hashmap , Geometry |
 | ... | ... | ... | ... | ... |
 </details>
 
