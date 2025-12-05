@@ -118,6 +118,7 @@ Each solution is implemented in **Python**, with a focus on **clean code**, **al
 | [Day 02](./December2025/day_02.py) | [Count Number of Trapezoids-i](https://leetcode.com/problems/count-number-of-trapezoids-i/) | 🟠 Medium | ✅ Solved | Hashmap , Geometry |
 | [Day 03](./December2025/day_03.py) | [Count Number of Trapezoids-ii](https://leetcode.com/problems/count-number-of-trapezoids-ii/) | 🔴 Hard | ✅ Solved | Hashmap , Geometry |
 | [Day 04](./December2025/day_04.py) | [Count Collisions on a Road](https://leetcode.com/problems/count-collisions-on-a-road/) | 🟠 Medium | ✅ Solved | Simulation |
+| [Day 05](./December2025/day_24.py) | [Count Partitions with Even Sum Difference](https://leetcode.com/problems/count-partitions-with-even-sum-difference/) | 🟢 Easy | ✅ Solved | Prefix Sum |
 | ... | ... | ... | ... | ... |
 </details>
 
