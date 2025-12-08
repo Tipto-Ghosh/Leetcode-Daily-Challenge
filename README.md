@@ -120,7 +120,8 @@ Each solution is implemented in **Python**, with a focus on **clean code**, **al
 | [Day 04](./December2025/day_04.py) | [Count Collisions on a Road](https://leetcode.com/problems/count-collisions-on-a-road/) | 🟠 Medium | ✅ Solved | Simulation |
 | [Day 05](./December2025/day_05.py) | [Count Partitions with Even Sum Difference](https://leetcode.com/problems/count-partitions-with-even-sum-difference/) | 🟢 Easy | ✅ Solved | Prefix Sum |
 | [Day 06](./December2025/day_06.py) | [count partitions with max min difference at most k](https://leetcode.com/problems/count-partitions-with-max-min-difference-at-most-k/) | 🟠 Medium | ✅ Solved | Dynamic Programming , Monotonic Stack |
-| [Day 07](./December2025/day_7.py) | [Count odd Numbers in an Interval](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | 🟢 Easy | ✅ Solved | Math |
+| [Day 07](./December2025/day_07.py) | [Count odd Numbers in an Interval](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | 🟢 Easy | ✅ Solved | Math |
+| [Day 08](./December2025/day_08.py) | [Count Square Sum Triples](https://leetcode.com/problems/count-square-sum-triples/) | 🟢 Easy | ✅ Solved | Math |
 | ... | ... | ... | ... | ... |
 </details>
 
