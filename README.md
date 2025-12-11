@@ -123,7 +123,8 @@ Each solution is implemented in **Python**, with a focus on **clean code**, **al
 | [Day 07](./December2025/day_07.py) | [Count odd Numbers in an Interval](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | 🟢 Easy | ✅ Solved | Math |
 | [Day 08](./December2025/day_08.py) | [Count Square Sum Triples](https://leetcode.com/problems/count-square-sum-triples/) | 🟢 Easy | ✅ Solved | Math |
 | [Day 09](./December2025/day_09.py) | [Count Special Triplets](https://leetcode.com/problems/count-special-triplets/) | 🟠 Medium | ✅ Solved | Hashmap , Counting |
-| [Day 09](./December2025/day_09.py) | [Count the Number of Computer Unlocking Permutations](https://leetcode.com/problems/count-the-number-of-computer-unlocking-permutations/) | 🟠 Medium | ✅ Solved | Factorial , Counting |
+| [Day 10](./December2025/day_10.py) | [Count the Number of Computer Unlocking Permutations](https://leetcode.com/problems/count-the-number-of-computer-unlocking-permutations/) | 🟠 Medium | ✅ Solved | Factorial , Counting |
+| [Day 11](./December2025/day_11.py) | [Count Covered Buildings](https://leetcode.com/problems/count-covered-buildings/) | 🟠 Medium | ✅ Solved | Hashmap , Counting |
 | ... | ... | ... | ... | ... |
 </details>
 
