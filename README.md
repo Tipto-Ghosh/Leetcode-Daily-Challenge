@@ -125,6 +125,7 @@ Each solution is implemented in **Python**, with a focus on **clean code**, **al
 | [Day 09](./December2025/day_09.py) | [Count Special Triplets](https://leetcode.com/problems/count-special-triplets/) | 🟠 Medium | ✅ Solved | Hashmap , Counting |
 | [Day 10](./December2025/day_10.py) | [Count the Number of Computer Unlocking Permutations](https://leetcode.com/problems/count-the-number-of-computer-unlocking-permutations/) | 🟠 Medium | ✅ Solved | Factorial , Counting |
 | [Day 11](./December2025/day_11.py) | [Count Covered Buildings](https://leetcode.com/problems/count-covered-buildings/) | 🟠 Medium | ✅ Solved | Hashmap , Counting |
+| [Day 12](./December2025/day_12.py) | [Count Mentions Per User](https://leetcode.com/problems/count-mentions-per-user/) | 🟠 Medium | ✅ Solved | Sorting , Counting |
 | ... | ... | ... | ... | ... |
 </details>
 
