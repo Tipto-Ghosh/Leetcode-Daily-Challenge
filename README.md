@@ -127,6 +127,7 @@ Each solution is implemented in **Python**, with a focus on **clean code**, **al
 | [Day 11](./December2025/day_11.py) | [Count Covered Buildings](https://leetcode.com/problems/count-covered-buildings/) | 🟠 Medium | ✅ Solved | Hashmap , Counting |
 | [Day 12](./December2025/day_12.py) | [Count Mentions Per User](https://leetcode.com/problems/count-mentions-per-user/) | 🟠 Medium | ✅ Solved | Sorting , Counting |
 | [Day 13](./December2025/day_13.py) | [Coupon Code Validator](https://leetcode.com/problems/coupon-code-validator/) | 🟢 Easy | ✅ Solved | Sorting |
+| [Day 14](./December2025/day_14.py) | [Number of Ways to Divide a Long Corridor](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/) | 🔴 Hard | ✅ Solved | Dynamic Programming |
 | ... | ... | ... | ... | ... |
 </details>
 
