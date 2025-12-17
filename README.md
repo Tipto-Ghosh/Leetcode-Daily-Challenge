@@ -130,6 +130,7 @@ Each solution is implemented in **Python**, with a focus on **clean code**, **al
 | [Day 14](./December2025/day_14.py) | [Number of Ways to Divide a Long Corridor](https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/) | 🔴 Hard | ✅ Solved | Dynamic Programming |
 | [Day 15](./December2025/day_15.py) | [Number of Smooth Descent Periods of a Stock](https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/) | 🟠 Medium | ✅ Solved | Subarray , Dynamic Programming |
 | [Day 16](./December2025/day_16.py) | [Maximum Profit from Trading Stocks with Discounts](https://leetcode.com/problems/maximum-profit-from-trading-stocks-with-discounts/) | 🔴 Hard | ✅ Solved | Dynamic Programming(Knapsack) , Tree(DFS) |
+| [Day 17](./December2025/day_17.py) | [Best Time to Buy and Sell Stock v](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-v/) | 🟠 Medium | ✅ Solved | Dynamic Programming |
 | ... | ... | ... | ... | ... |
 </details>
 
