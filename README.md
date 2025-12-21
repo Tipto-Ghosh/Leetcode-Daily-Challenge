@@ -134,6 +134,7 @@ Each solution is implemented in **Python**, with a focus on **clean code**, **al
 | [Day 18](./December2025/day_18.py) | [Best Time to Buy and Sell Stock Using Strategy](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-using-strategy/) | 🟠 Medium | ✅ Solved | Prefix Sum , Sliding Window |
 | [Day 19](./December2025/day_19.py) | [Find All People With Secret](https://leetcode.com/problems/find-all-people-with-secret/) | 🔴 Hard | ✅ Solved | Graph Depth First Search|
 | [Day 20](./December2025/day_20.py) | [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) | 🟢 Easy | ✅ Solved | Array , String |
+| [Day 17](./December2025/day_21.py) | [Delete Columns to Make Sorted-ii](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/) | 🟠 Medium | ✅ Solved | Greedy |
 | ... | ... | ... | ... | ... |
 </details>
 
