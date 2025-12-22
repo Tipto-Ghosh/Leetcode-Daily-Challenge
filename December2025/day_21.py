@@ -1,33 +1,31 @@
 from typing import List 
 
-class Solution(object):
-    def minDeletionSize(self, A):
+
+class Solution:
+    def minDeletionSize(self, A: List[str]) -> int:
         
-        def is_sorted(A):
-            return all(A[i] <= A[i+1] for i in range(len(A) - 1))
+        def is_sorted(arr: List[str]) -> bool:
+            return all(arr[i] <= arr[i + 1] for i in range(len(arr) - 1))
 
         ans = 0
-        # cur : all rows we have written
-        # For example, with A = ["abc","def","ghi"] we might have
-        # cur = ["ab", "de", "gh"].
-        cur = [""] * len(A)  
+        
+        # cur keeps the constructed strings row-wise
+        cur = [""] * len(A)
 
         for col in zip(*A):
-            # cur2 : What we potentially can write, including the
-            #        newest column 'col'.
-            # Eg. if cur = ["ab","de","gh"] and col = ("c","f","i"),
-            # then cur2 = ["abc","def","ghi"].
+            # Try adding this column to cur
             cur2 = cur[:]
             for i, letter in enumerate(col):
-                cur2[i] = cur2[i] + letter
+                cur2[i] += letter
 
             if is_sorted(cur2):
                 cur = cur2
             else:
                 ans += 1
 
-        return ans        
-        
+        return ans
+
+
         
 sol = Solution()
 
